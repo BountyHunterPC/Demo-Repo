@@ -1,4 +1,4 @@
 # demo-repo
 This is my first repository.
 <br>
-Author - Pranav Chaudhari
+Author - Pranav Chaudhari (PC)
